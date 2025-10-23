@@ -3,7 +3,7 @@
 vsr = 12
 weight = 30.45
 name = 'Vihanga'
-check = true
+check = true # type: ignore
 
 # Data types: int, float, str, bool.
 # Arithmetic operators: +, -, *, /.
