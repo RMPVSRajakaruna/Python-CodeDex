@@ -12,6 +12,7 @@ class City:
 
 colombo = City(
     name="Colombo",
+    
     country="Sri Lanka",
     population=6000,  
     landmarks=["Galle Face Green", "Lotus Tower", "Old Parliament"],

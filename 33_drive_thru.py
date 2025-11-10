@@ -30,5 +30,6 @@ def order(x):
         return "Invalid input."
 
 welcome()
+
 choice = int(input("Enter your choice: "))
 print(order(choice))

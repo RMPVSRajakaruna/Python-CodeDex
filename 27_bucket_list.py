@@ -7,6 +7,7 @@
 
 # Write code below 💖
 
+
 things_to_do = [
   '🚀 Create the dopest learn to code platform ever.',
   '⛰️ Hike the Pacific Crest Trail.',
