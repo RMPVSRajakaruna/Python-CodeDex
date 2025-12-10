@@ -10,4 +10,4 @@ for filename in filenames:
 
 iio.imwrite('team.gif', images, duration=500, loop=0)
 
-print("✅ GIF created successfully! Saved as 'team.gif'")
+print("GIF created successfully! Saved as 'team.gif'")
